@@ -39,9 +39,3 @@
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-c++-05122A??style=flat&logo=cplusplus)&nbsp;
 
-
-
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmt20&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-
