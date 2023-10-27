@@ -2,8 +2,8 @@
 <img width="250" align="right" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif">
 
 <h3 align="center">
+  <img src="https://raw.githubusercontent.com/haithamaouati/StandWithPalestine/main/badges/flat/MadeInPalestine_light.svg"/>
   Welcome to Mostafa Mohamed's profile!
- <img src="https://raw.githubusercontent.com/haithamaouati/StandWithPalestine/main/badges/flat/MadeInPalestine_light.svg"/>
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
