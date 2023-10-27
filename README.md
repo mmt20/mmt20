@@ -3,6 +3,7 @@
 
 <h3 align="center">
   Welcome to Mostafa Mohamed's profile!
+  ![WeStandWithPalestine Light](https://raw.githubusercontent.com/haithamaouati/StandWithPalestine/main/badges/flat/WeStandWithPalestine_light.svg)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
