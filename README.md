@@ -1,5 +1,4 @@
 
-<img  align="center" src="https://raw.githubusercontent.com/haithamaouati/StandWithPalestine/main/badges/flat/WeStandWithPalestine_light.svg"/>
 <img width="250" align="right" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif">
 
 
